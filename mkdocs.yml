@@ -1,8 +1,16 @@
 site_name: Swierk
 site_url: https://sitename.example
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - User Guide:
+    - Writing your docs: writing-your-docs.md
+    - Styling your docs: styling-your-docs.md
+
 theme:
   name: material
-
+  locale: en
   palette:
     - scheme: default
       toggle:
