@@ -3,11 +3,22 @@ site_url: https://sitename.example
 
 nav:
   - Home: index.md
-  - About: about.md
-  - User Guide:
-    - Writing your docs: writing-your-docs.md
-    - Styling your docs: styling-your-docs.md
-
+  - Directories:
+    - Directories: Directories/directories.md
+  - Installation:
+      - Dependencies: Installation/dependencies.md
+      - Docker Guide: Installation/docker.md
+      - Environment Setup: Installation/environment.md
+      - WSL Instructions: Installation/wsl.md
+  - Database:
+    - Migrations: Database/migrations.md
+    - Models: Database/models.md
+  - Tools:
+    - Tools: Tools/tools.md
+  - Business logic:
+    - Business logic: Business logic/business logic.md
+  - Tests: Tests/tests.md
+  
 theme:
   name: material
   locale: en
