@@ -18,6 +18,8 @@ nav:
   - Business logic:
     - Business logic: Business logic/business logic.md
   - Tests: Tests/tests.md
+  - Tutorial: Tutorial/tutorial.md
+     
   
 theme:
   name: material
