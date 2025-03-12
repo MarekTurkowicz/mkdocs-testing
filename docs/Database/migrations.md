@@ -1,5 +1,5 @@
 # Migrations
-
+**Author:** [Insert Author Name]
 ## How to Create a Migration
 1. Step:
     >Brief description
