@@ -3,8 +3,6 @@ site_url: https://sitename.example
 
 nav:
   - Home: index.md
-  - Directories:
-    - Directories: Directories/directories.md
   - Installation:
       - Dependencies: Installation/dependencies.md
       - Docker Guide: Installation/docker.md
@@ -23,7 +21,6 @@ nav:
   
 theme:
   name: material
-  locale: en
   palette:
     - scheme: default
       toggle:
